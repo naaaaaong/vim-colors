@@ -61,7 +61,7 @@ hi Number guifg=#afaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE 
 hi Operator guifg=#87afd7 guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi Pmenu guifg=#afaf5f guibg=#3a3a3a guisp=NONE gui=NONE ctermfg=143 ctermbg=237 cterm=NONE
 hi PmenuSbar guifg=NONE guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
-hi PmenuSel guifg=#ffffd7 guibg=#303030 guisp=NONE gui=NONE ctermfg=230 ctermbg=236 cterm=NONE
+hi PmenuSel guifg=#e0ecf9 guibg=#303030 guisp=NONE gui=NONE ctermfg=230 ctermbg=236 cterm=NONE
 hi PmenuThumb guifg=NONE guibg=#87875f guisp=NONE gui=NONE ctermfg=NONE ctermbg=101 cterm=NONE
 hi PreCondit guifg=#87af87 guibg=NONE guisp=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
 hi PreProc guifg=#87af87 guibg=NONE guisp=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
