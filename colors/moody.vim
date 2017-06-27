@@ -25,8 +25,8 @@ hi Conceal guifg=#d78700 guibg=NONE guisp=NONE gui=NONE ctermfg=172 ctermbg=NONE
 hi Conditional guifg=#87afd7 guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi Constant guifg=#afaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE cterm=NONE
 hi Cursor guifg=#080808 guibg=#afd75f guisp=#afd75f gui=NONE ctermfg=232 ctermbg=149 cterm=NONE
-hi CursorColumn guifg=#c7e0e7 guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=187 ctermbg=234 cterm=NONE
-hi CursorLine guifg=#c7e0e7 guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=187 ctermbg=234 cterm=NONE
+hi CursorColumn guifg=#afeeee guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=187 ctermbg=234 cterm=NONE
+hi CursorLine guifg=#afeeee guibg=#1c1c1c guisp=NONE gui=NONE ctermfg=187 ctermbg=234 cterm=NONE
 hi CursorLineNr guifg=#bcbcbc guibg=#121212 guisp=NONE gui=NONE ctermfg=250 ctermbg=233 cterm=NONE
 hi Debug guifg=#878787 guibg=NONE guisp=NONE gui=NONE ctermfg=102 ctermbg=NONE cterm=NONE
 hi Define guifg=#87af87 guibg=NONE guisp=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
